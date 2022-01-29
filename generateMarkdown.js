@@ -15,7 +15,6 @@ function renderLicenseBadge(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
   return `
-
 ## Table of Contents:
 - [Name](#name)  
 - [License](#license)  
@@ -27,12 +26,15 @@ function generateMarkdown(answers) {
 - [Contributors](#contributors)
 
 ## README Project:
+
   ${answers.name}
 
 ## License:
+
 [![License:${answers.license}]]
 
 ## Description:
+
 ${answers.description}
 
 ## Images:
@@ -42,19 +44,24 @@ ${answers.description}
 
 ![Project Screenshot](./imagePathHere.png)
 
-## Installation Steps
+## Installation Steps:
+
 ${answers.installation}
 
 ## Test Command:
+
 To test type ${answers.test} into the terminal
 
-## My Github Repo
+## My Github Repo:
+
 Checkout more of my projects on my Github at <https://github.com/${answers.gitHub}>
 
 ## My Email Address:
+
 If you have any questions or concerns please reach out to me at my email at ${answers.email}
 
-## Other Contributors
+## Other Contributors:
+
 ${answers.contributors}
 `; 
 }

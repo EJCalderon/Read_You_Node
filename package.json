@@ -1,0 +1,21 @@
+{
+  "name": "read_you_node",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](./readme-guide.md)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EJCalderon/Read_You_Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EJCalderon/Read_You_Node/issues"
+  },
+  "homepage": "https://github.com/EJCalderon/Read_You_Node#readme"
+}

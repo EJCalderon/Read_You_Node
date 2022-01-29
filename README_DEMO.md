@@ -11,13 +11,13 @@
 - [Contributors](#contributors)
 
 ## README Project:
-  f
+  sda
 
 ## License:
 [![License:MIT]]
 
 ## Description:
-f
+as
 
 ## Images:
 ![Project Screenshot](./imagePathHere.png)
@@ -30,13 +30,13 @@ f
 
 
 ## Test Command:
-To test type node index.js into the terminal
+To test type sadf into the terminal
 
 ## My Github Repo
-Checkout more of my projects on my Github at https://github.com/EJCalderon
+Checkout more of my projects on my Github at <https://github.com/sadsf>
 
 ## My Email Address:
-If you have any questions or concerns please reach out to me at my email at em@gmil.xo
+If you have any questions or concerns please reach out to me at my email at sadsf
 
 ## Other Contributors
-fdg
+sadsf
