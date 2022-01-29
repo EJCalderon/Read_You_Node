@@ -20,7 +20,6 @@ const questions = [
             "GPLV3",
             "ISC",
         ],
-
     },
     {
         type: "input",
