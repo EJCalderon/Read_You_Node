@@ -1,5 +1,5 @@
 {
-  "name": "read_you_node",
+  "name": "static-site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,18 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EJCalderon/Read_You_Node.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/EJCalderon/Read_You_Node/issues"
-  },
-  "homepage": "https://github.com/EJCalderon/Read_You_Node#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
-  },
-  "devDependencies": {}
+    "inquirer": "^6.3.1"
+  }
 }
