@@ -49,7 +49,7 @@ ${answers.installation}
 To test type ${answers.test} into the terminal
 
 ## My Github Repo
-Checkout more of my projects on my Github at https://github.com/${answers.gitHub}
+Checkout more of my projects on my Github at <https://github.com/${answers.gitHub}>
 
 ## My Email Address:
 If you have any questions or concerns please reach out to me at my email at ${answers.email}
