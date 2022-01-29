@@ -12,18 +12,15 @@ const questions = [
         message: "What is your project's name?",
     },
     {
-        type: "input",
+        type: "list",
         name: "license",
         message: "Apply license badge?",
         choices: [
-        new inquirer.Separator(),
-        "MIT",
-        new inquirer.Separator(),
-        "GPLV3",
-        new inquirer.Separator(),
-        "AGPL",
-        new inquirer.Separator(),
+            "MIT",
+            "GPLV3",
+            "ISC",
         ],
+
     },
     {
         type: "input",
@@ -33,7 +30,7 @@ const questions = [
     {
         type: "editor",
         name: "Installation steps",
-        message: "What are the required step by step instructions to run this application?",
+        message: "What are the required step by step instructions to run this application? To exit editor press control C twice",
     },
     {
         type: "input",
