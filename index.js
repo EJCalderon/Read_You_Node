@@ -29,7 +29,7 @@ const questions = [
     },
     {
         type: "editor",
-        name: "Installation steps",
+        name: "installation",
         message: "What are the required step by step instructions to run this application? To exit editor press control C twice",
     },
     {
@@ -39,7 +39,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "github repo",
+        name: "gitHub",
         message: "What is your Github username?",
     },  
     {
