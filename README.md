@@ -5,3 +5,7 @@
 Below is the link to my video!
 
 https://watch.screencastify.com/v/YTx1i9YtCjQGXRdyrzBS
+
+# Screenshot
+***
+(./assets/images/DEMO_Snapshot.png)

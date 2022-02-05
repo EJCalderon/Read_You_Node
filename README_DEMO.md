@@ -11,18 +11,18 @@
 
 ## README Project:
 
-  Read you Node
+  Read you node
 
 ## License:
 
-[![License: MIT]]
+[![License:MIT]]
 
 ## Description:
 
-Creating an easy to use and concise readme generator.
+This is a project
 
 ## Images:
-![Project Screenshot](./imagePathHere.png)
+![Project Screenshot](./assets/images/DEMO_Snapshot.png)
 
 ![Project Screenshot](./imagePathHere.png)
 
@@ -42,8 +42,8 @@ Checkout more of my projects on my Github at <https://github.com/EJCalderon>
 
 ## My Email Address:
 
-If you have any questions or concerns please reach out to me at my email at emiliojaviercalderon@gmail.com
+If you have any questions or concerns please reach out to me at my email at ecalderon@
 
 ## Other Contributors:
 
-N/A
+a
