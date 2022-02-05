@@ -8,4 +8,4 @@ https://watch.screencastify.com/v/YTx1i9YtCjQGXRdyrzBS
 
 # Screenshot
 ***
-(./assets/images/DEMO_Snapshot.png)
+![alt text](assets/images/DEMO_Snapshot.png)
